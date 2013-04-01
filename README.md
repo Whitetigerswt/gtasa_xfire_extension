@@ -6,3 +6,6 @@ without: ![ScreenShot](https://u-army.com/tiger/random/xfire_without.jpg)
 This adds much more information to the xfire ingame for all your friends to see more information about your game, any one of the extra information can be hidden from the xfire.cfg file that is generated
 
 Compiled .ASI: https://www.u-army.com/tiger/random/xfire.asi
+
+
+(only tested on a GTA:SA 1.0 american EXE)
